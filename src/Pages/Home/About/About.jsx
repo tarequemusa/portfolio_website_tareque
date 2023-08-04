@@ -20,7 +20,7 @@ const About = () => {
                         <h1 className="font-semibold my-6" style={{fontSize: '2em'}}>Why Hire Me for Your<br /> Next Project?</h1>
                         <p>My name is <span className="font-bold text-info">Md. Tareque Musa</span> based in Dhaka, Bangladesh. I am a skilled web developer specializing in User Interface Design and Developtment. I am passionate about crafting seamless user experiences and constantly expanding my knowledge in the ever-evolving world of web development.</p>
                         <p className="mt-3">
-                            I have completed my master of sicence in computer science and engineering (MS IN CSE) from East West University, Dhaka, Bangladesh
+                            I have completed my master of science in computer science and engineering (MS IN CSE) from East West University, Dhaka, Bangladesh
                         </p>
                     </Zoom>
                     <Slide cascade damping={0.1}>
